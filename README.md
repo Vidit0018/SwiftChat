@@ -1,3 +1,3 @@
 # SwiftChat
 A realtime Chat app
-<img src="https://i.pinimg.com/originals/de/d0/bb/ded0bbdd8485e424327257405a86a884.gif">
+<img src="https://cdn.dribbble.com/users/1894420/screenshots/14081986/media/790c0983a729e5ce15f4d25f42697e77.gif)https://cdn.dribbble.com/users/1894420/screenshots/14081986/media/790c0983a729e5ce15f4d25f42697e77.gif">
