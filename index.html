@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SwiftChat -Realtime chat app</title>
+    
+    <script defer src="http://localhost:8000/socket.io/socket.io.js"></script>
+    <script defer src="js/client.js"></script>
+    <link rel="stylesheet" href="assets/css/mainpage.css">
+</head>
+<body>
+    <nav class="navbar">
+        
+        <img class="logo" src="./assets/chat.png" height="50px" width ="50px" >
+        <h1>SwiftChat</h1>
+    </nav>
+    <div class="main">
+        <div class="container">
+            <!-- <div class="message left"> Vidit : Hey Rohan its me </div>
+            <div class="message right"> Rohan : Hi , Bro how are you doing ?</div> -->
+        </div>
+
+    </div>
+    <!-- MESSAGE SENDING -->
+    <div class="send">
+        <form action="#" id="send-container">
+            <input type="text" name="messageInp" id="messageInp">
+            <button class="btn" type="submit">Send</button>
+
+        </form>
+    </div>
+
+
+    
+</body>
+</html>
